@@ -1,4 +1,4 @@
-### Wazzaaaaaa 🤘
+# Wazzaaaaaa 🤘
 
 My name is Trevor!&nbsp;👋 &nbsp;
 <br/>
@@ -14,7 +14,7 @@ My job description tells me I'm a systems administrator&nbsp;👨‍💻&nbsp; b
 
 [![harbinger](https://github-readme-stats.vercel.app/api/pin/?username=turbits&repo=harbinger&theme=onedark&hide_border=true)](https://github.com/turbits/harbinger)
 
-### Blog
+# Blog
 
 _coming soon_
 
