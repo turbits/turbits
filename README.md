@@ -10,6 +10,10 @@ My job description tells me I'm a systems administrator&nbsp;👨‍💻&nbsp; b
 
 [![taucon](https://github-readme-stats.vercel.app/api/pin/?username=Baphomet-Labs&repo=taucon&theme=onedark&hide_border=true)](https://github.com/Baphomet-Labs/taucon)
 
+[![insidious](https://github-readme-stats.vercel.app/api/pin/?username=turbits&repo=insidious&theme=onedark&hide_border=true)](https://github.com/turbits/insidious)
+
+[![harbinger](https://github-readme-stats.vercel.app/api/pin/?username=turbits&repo=harbinger&theme=onedark&hide_border=true)](https://github.com/turbits/harbinger)
+
 ### Blog
 
 _coming soon_
