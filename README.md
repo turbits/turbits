@@ -4,7 +4,7 @@ Nice to meet you!&nbsp;👋 &nbsp;
 
 <br/>
 
-My job description tells me I'm a systems administrator&nbsp;👨‍💻&nbsp; but I generally spend my days with Docker and an Angular-y stack building up and hacking on internal software. For personal projects I prefer to use C# and Unity making tools and never finishing any of my game dev projects 🙈&nbsp;🙉&nbsp;🙊
+My job description describes me as a systems administrator and technician&nbsp;👨‍💻&nbsp;but I generally spend my days with Docker and an Angular-y stack designing, developing, and testing internal flagship applications. For personal projects, I prefer to use C# and Unity to make tools and never finish any of my game dev projects 🙈&nbsp;🙉&nbsp;🙊
 
 <br/>
 
