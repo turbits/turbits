@@ -1,6 +1,6 @@
 # Wazzaaaaaa 🤘
 
-My name is Trevor!&nbsp;👋 &nbsp;
+Nice to meet you!&nbsp;👋 &nbsp;
 
 <br/>
 
