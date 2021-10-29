@@ -9,11 +9,3 @@ I spend my days with Docker and an Angular-based stack designing, developing, an
 <br/>
 
 [![Turbit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=turbits&show_icons=true&theme=graywhite&count_private=true&hide_border=true)](https://github.com/turbits)
-
-## Projects
-
-[taucon](https://github.com/Baphomet-Labs/taucon)
-
-[insidious](https://github.com/turbits/insidious)
-
-[harbinger](https://github.com/turbits/harbinger)
