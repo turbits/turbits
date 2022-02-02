@@ -4,6 +4,8 @@ Nice to meet you!&nbsp;👋 &nbsp;
 
 <br/>
 
-I spend my days with Docker and an Angular-based stack designing, developing, and testing internal flagship applications at my company. Almost my entire spare time is spent hacking on blockchain projects under a pseudonym, so this GitHub probably looks pretty dead!
+I spend most of my development time hacking on my company's internal applications. We use a lot of tech, but it mostly boils down to Angular and React.
+
+In my spare time I like hacking on things with React, C# (Unity), and sometimes [EVM](https://ethereum.org/en/developers/docs/evm/).
 
 <br/>
