@@ -4,8 +4,6 @@ Nice to meet you!&nbsp;👋 &nbsp;
 
 <br/>
 
-I spend most of my development time hacking on my company's internal applications. We use a lot of tech, but it mostly boils down to Angular and React.
-
-In my spare time I like hacking on things with React, C# (Unity), and sometimes [EVM](https://ethereum.org/en/developers/docs/evm/).
+I use React ecosystem and MongoDB heavily for work projects; In my spare time I hack on things with React, C# (also Unity), and fairly often [EVM](https://ethereum.org/en/developers/docs/evm/).
 
 <br/>
