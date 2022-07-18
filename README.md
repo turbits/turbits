@@ -8,7 +8,7 @@ Nice to meet you!&nbsp;👋 &nbsp;
 
 Sysadmin life now; PowerShell, bash, batch
 
-In my spare time I hack on different things with various languages and play around with networking, cybersecurity, and Windows enterprise things.
+I'm developing a game in my spare time using UE5; keep an eye on [Baphomet Labs GitHub](https://github.com/Baphomet-Labs) and [Baphomet Labs Blog](https://baphometlabs.com)
 
 
 ## Interesting Stuff
