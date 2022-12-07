@@ -10,7 +10,7 @@ Sysadmin life now; PowerShell, bash, batch..
 
 ## Projects
 
-- [Bones](https://bones.turbits.dev/) 🦴 (dice roller app)
+- [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
 
 
 ## Interesting Stuff
