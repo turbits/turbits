@@ -8,6 +8,10 @@ Nice to meet you!&nbsp;👋 &nbsp;
 
 Sysadmin life now; PowerShell, bash, batch..
 
+## Projects
+
+- [Bones](https://bones.turbits.dev/) 🦴 (dice roller app)
+
 
 ## Interesting Stuff
 
