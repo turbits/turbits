@@ -2,11 +2,6 @@
 
 Nice to meet you!&nbsp;👋 &nbsp;
 
-<br/>
-
-~~I use the React ecosystem and MongoDB heavily for work projects;~~
-
-Sysadmin life now; PowerShell, bash, batch..
 
 ## Projects
 
