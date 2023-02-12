@@ -22,18 +22,18 @@ You should check out:
 
 ## PC
 
-Case: Fractal Meshify 2 Lite RGB
+**Case**: Fractal Meshify 2 Lite RGB
 
-PSU: Asus ROG Thor 850
+**PSU**: Asus ROG Thor 850
 
-GPU: MSI Gaming X Trio RTX 3080
+**GPU**: MSI Gaming X Trio RTX 3080
 
-CPU: AMD Ryzen 9 5900X
+**CPU**: AMD Ryzen 9 5900X
 
-Board: MSI MAG X570S Tomahawk
+**Board**: MSI MAG X570S Tomahawk
 
-RAM: G.SKILL TridentZ 32GB
+**RAM**: G.SKILL TridentZ 32GB
 
-Cooler: Noctua NH-D15S
+**Cooler**: Noctua NH-D15S
 
-Storage: Various (WD_BLACK M.2s, Barracuda 2TB, WD 8TB)
+**Storage**: Various (WD_BLACK M.2s, Barracuda 2TB, WD 8TB)
