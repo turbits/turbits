@@ -1,11 +1,17 @@
 # Sup 🤘 🦆 
 
-Nice to meet you!&nbsp;👋 &nbsp;
+Nice to meet you!&nbsp;👋 &nbsp; I am a systems administrator in my day job. For fun, I toy around with a myriad of shit. My brain chemicals prevent me from being interested in one thing for more than a day or two at a time, but I do sort of a loop around all of the things that interest me - so you may see an odd variety of stuff here. Some of the stuff that interests me is:
+- .NET
+- Webdev / Typescript
+- Game dev / Godot / (previously Unity, but [fuck Unity](https://www.youtube.com/watch?v=LlPOn0nAOeo&list=PLS9MbmO_ssyAyVCJrsdDfqvR8yLSpkf2T))
+- 3D modeling
+- 2D pixel art ([aseprite](https://www.aseprite.org/)) and [painting(procreate)](https://procreate.com/)
 
 
 ## Projects
 
 - [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
+- [Hyperium Labs](https://github.com/Hyperium-Labs)
 
 ## School/Etc
 
