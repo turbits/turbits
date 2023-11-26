@@ -1,6 +1,6 @@
 # Sup 🤘 🦆 
 
-Nice to meet you!&nbsp;👋 &nbsp; I am a systems administrator in my day job. For fun, I toy around with a myriad of shit. My brain chemicals prevent me from being interested in one thing for more than a day or two at a time, but I do sort of a loop around all of the things that interest me - so you may see an odd variety of stuff here.
+Nice to meet you!&nbsp;👋 &nbsp; My name's Trevor. I am a systems administrator in my day job, and I enjoy coding in my free time.
 
 Some of that includes:
 - .NET
