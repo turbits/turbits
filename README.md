@@ -15,10 +15,6 @@ Some of that includes:
 - [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
 - [Hyperium Labs](https://github.com/Hyperium-Labs)
 
-## School/Etc
-
-- [Post Graduate CS ePortfolio - University of Essex](https://github.com/turbits/essex_eportfolio) 🧑‍🎓
-
 ## Interesting Stuff
 
 You should check out:
