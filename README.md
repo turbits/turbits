@@ -5,7 +5,7 @@ Nice to meet you!&nbsp;👋 &nbsp; My name's Trevor. I am a systems administrato
 Some of that includes:
 - .NET
 - Webdev / Typescript
-- Game dev / Godot / (previously Unity, but [fuck Unity](https://www.youtube.com/watch?v=LlPOn0nAOeo&list=PLS9MbmO_ssyAyVCJrsdDfqvR8yLSpkf2T))
+- Game dev / Godot / previously Unity, but [Unity is kinda spicy now](https://www.youtube.com/watch?v=LlPOn0nAOeo&list=PLS9MbmO_ssyAyVCJrsdDfqvR8yLSpkf2T))
 - 3D modeling
 - 2D pixel art ([aseprite](https://www.aseprite.org/)) and painting ([procreate](https://procreate.com/))
 
