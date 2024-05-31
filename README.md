@@ -7,7 +7,7 @@ Some of that includes:
 - Webdev / Typescript
 - Game dev / Godot / (previously Unity, but [fuck Unity](https://www.youtube.com/watch?v=LlPOn0nAOeo&list=PLS9MbmO_ssyAyVCJrsdDfqvR8yLSpkf2T))
 - 3D modeling
-- 2D pixel art ([aseprite](https://www.aseprite.org/)) and [painting(procreate)](https://procreate.com/)
+- 2D pixel art ([aseprite](https://www.aseprite.org/)) and painting ([procreate](https://procreate.com/))
 
 
 ## Projects
