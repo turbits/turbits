@@ -4,8 +4,8 @@ Nice to meet you!&nbsp;👋 &nbsp; My name's Trevor. I am a systems administrato
 
 Some of that includes:
 - .NET
+- Game dev / [Godot](https://godotengine.org/)
 - Webdev / Typescript
-- Game dev / Godot / previously Unity, but [Unity is kinda spicy now](https://www.youtube.com/watch?v=LlPOn0nAOeo&list=PLS9MbmO_ssyAyVCJrsdDfqvR8yLSpkf2T)
 - 3D modeling ([blender](https://www.blender.org/) and [blockbench](https://www.blockbench.net/))
 - 2D pixel art ([aseprite](https://www.aseprite.org/)) and painting ([procreate](https://procreate.com/))
 
@@ -13,7 +13,7 @@ Some of that includes:
 ## Projects
 
 - [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
-- [Hyperium Labs](https://github.com/Hyperium-Labs)
+- [Hyperium Labs](https://hyperiumlabs.com/)
 
 ## Interesting Stuff
 
