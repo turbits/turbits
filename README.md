@@ -40,4 +40,4 @@ You should check out:
 
 **Cooler**: Noctua NH-D15S
 
-**Storage**: Various (WD_BLACK M.2s, Barracuda 2TB, WD 8TB)
+**Storage**: Various 1-2TB SSDs, 4TB Synology NAS
