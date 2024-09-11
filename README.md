@@ -12,6 +12,7 @@ Some of that includes:
 
 ## Projects
 
+- [My Site (turbits.sh)](https://turbits.sh)
 - [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
 - [Hyperium Labs](https://hyperiumlabs.com/)
 
