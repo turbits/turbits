@@ -1,6 +1,6 @@
 # sup 🤘 🦆 
 
-&nbsp;👋 &nbsp; My name's Trevor, I am a systems administrator in my day job and I like to play drums, code, and dissociate in my free time
+&nbsp;👋 &nbsp; my name's Trevor, i'm a systems administrator in my day job and code, play drums, and dissociate in my free time
 
 some interests:
 - .NET
