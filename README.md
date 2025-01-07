@@ -1,8 +1,8 @@
-# Sup 🤘 🦆 
+# sup 🤘 🦆 
 
-Nice to meet you!&nbsp;👋 &nbsp; My name's Trevor. I am a systems administrator in my day job, and I enjoy coding in my free time.
+&nbsp;👋 &nbsp; My name's Trevor, I am a systems administrator in my day job and I like to play drums, code, and dissociate in my free time
 
-Some of that includes:
+some interests:
 - .NET
 - Game dev / [Godot](https://godotengine.org/) / [Unity again???](https://unity.com/blog/unity-is-canceling-the-runtime-fee)
 - Webdev / Typescript
@@ -10,15 +10,15 @@ Some of that includes:
 - 2D pixel art ([aseprite](https://www.aseprite.org/)) and painting ([procreate](https://procreate.com/))
 
 
-## Projects
+## projects
 
 - [My Site (turbits.sh)](https://turbits.sh)
 - [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
 - [Hyperium Labs](https://hyperiumlabs.com/)
 
-## Interesting Stuff
+## interesting stuff
 
-You should check out:
+you should check out:
 
 - [Obsidian](https://obsidian.md/) 📔
 - [Fantasia Archive](https://fantasiaarchive.com/) 🗺️
