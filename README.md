@@ -1,14 +1,6 @@
 # sup 🤘 🦆 
 
-&nbsp;👋 &nbsp; my name's Trevor, i'm a systems administrator in my day job. i code, play drums, and dissociate in my free time 🧙‍♂️
-
-some interests:
-- .NET
-- Game dev / [Godot](https://godotengine.org/) / [Unity again???](https://unity.com/blog/unity-is-canceling-the-runtime-fee)
-- Webdev / Typescript
-- 3D modeling ([blender](https://www.blender.org/) and [blockbench](https://www.blockbench.net/))
-- 2D pixel art ([aseprite](https://www.aseprite.org/)) and painting ([procreate](https://procreate.com/))
-
+&nbsp;👋 &nbsp; i'm Turbits. i'm a systems administrator in my day job. i code, make stof, and dissociate in my free time 🧙‍♂️
 
 ## projects
 
@@ -18,27 +10,20 @@ some interests:
 
 ## interesting stuff
 
-you should check out:
-
 - [Obsidian](https://obsidian.md/) 📔
 - [Fantasia Archive](https://fantasiaarchive.com/) 🗺️
+- [aseprite](https://www.aseprite.org/)
+- [blockbench](https://www.blockbench.net/)
 
 <br/>
 
-## PC
+## pc
 
-**Case**: Fractal Meshify 2 Lite RGB
-
-**PSU**: Asus ROG Thor 850
-
-**GPU**: MSI Gaming X Trio RTX 3080
-
-**CPU**: AMD Ryzen 9 5900X
-
-**Board**: MSI MAG X570S Tomahawk
-
-**RAM**: G.SKILL TridentZ 32GB
-
-**Cooler**: Noctua NH-D15S
-
-**Storage**: Various 1-2TB SSDs, 4TB Synology NAS
+- **Case**: Fractal Meshify 2 Lite RGB
+- **PSU**: Asus ROG Thor 850
+- **GPU**: MSI Gaming X Trio RTX 3080
+- **CPU**: AMD Ryzen 9 5900X
+- **Board**: MSI MAG X570S Tomahawk
+- **RAM**: G.SKILL TridentZ 32GB
+- **Cooler**: Noctua NH-D15S
+- **Storage**: Various 1-2TB SSDs, 4TB Synology NAS
