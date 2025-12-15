@@ -2,6 +2,10 @@
 
 I'm a systems administrator with a passion for coding and tinkering with personal projects. When I'm not in the office I lift/bike, experiment with new tech, build things from scratch, and have a rotation of like 500 other hobbies...like miniature painting, drumming, soldering/electronics, and gunpla.
 
+See my game modding and silly projects on alt account:
+- https://github.com/twizzork
+- https://twizzork.github.io
+
 ## projects
 
 - [My Site (turbits.sh)](https://turbits.sh)
