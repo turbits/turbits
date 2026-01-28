@@ -9,7 +9,7 @@ See my game modding and silly projects on alt account:
 ## projects
 
 - [My Site (turbits.sh)](https://turbits.sh)
-- [Bones](https://bones.turbits.dev/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
+- [Bones](https://bones.turbits.sh/) 🦴 (dice roller app) [repo](https://github.com/turbits/bones)
 - [Hyperium Labs](https://hyperiumlabs.com/)
 
 ## interesting stuff
